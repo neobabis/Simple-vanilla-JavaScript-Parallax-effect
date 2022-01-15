@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section {
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+#section_1 {
+    height: 100vh;
+    background-color: #2c4778;
+}
+#section_2 {
+    background-color: #1262f7;
+}
+#section_3 {
+    background-color: #5c93f9;
+}
